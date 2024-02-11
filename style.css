@@ -8,12 +8,6 @@ video{
     z-index: -1;
     object-fit: cover;
 }
-/* body{
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
-    background-image:  linear-gradient(to top, rgba(181, 181, 181, 0), rgba(0, 0, 0, 0.5)),url(./background.gif);
-} */
 .container{
     font-family: 'Protest Revolution';font-size: 22px;
     display: flex;
